@@ -1,0 +1,22 @@
+1. Use Case Diagram 
+Tambahan di sistem yang diusulkan
+- Login
+- inputan :
+  - Kelola produk 
+  - halaman utama
+  - Profile Toko
+  - Pilihan Produk
+  - Cara Pemesanan
+2. Activity Diagram
+- Activity Pelanggan
+- Activity Login Admin
+- Activity Mengelola Sistem/Inputan
+- Activity Pemesanan Produk
+3. Sequence Diagram
+-  Sequence Pelanggan
+-  Sequence Login Admin
+-  Sequence Mengelola Sistem/Inputan
+-  Sequence Pemesanan Produk
+3. Implementasi Sebelum dan sesudah presentasi dari awal sampai demo sistem
+- Pengambilan data seperti apa( tanya langsung/ kuesioner)
+ 
